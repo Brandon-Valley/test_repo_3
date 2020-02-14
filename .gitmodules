@@ -1,0 +1,2 @@
+[submodule "test_submodule"]
+	update = rebase
