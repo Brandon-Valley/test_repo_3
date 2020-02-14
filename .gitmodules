@@ -1,2 +1,4 @@
 [submodule "test_submodule"]
 	update = rebase
+[submodule "C:\\Users\\mt204e\\Documents\\test\\git_test\\rec_sm_update_test_0\\test_repo_3__0\\test_submodule"]
+	update = rebase
