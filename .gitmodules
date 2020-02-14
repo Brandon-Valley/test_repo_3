@@ -2,3 +2,4 @@
 	path = test_submodule
 	url = https://github.com/Brandon-Valley/test_submodule.git
 	update = rebase
+	branch = master
