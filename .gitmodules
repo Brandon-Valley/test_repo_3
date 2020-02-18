@@ -3,3 +3,6 @@
 	url = https://github.com/Brandon-Valley/test_submodule.git
 	update = rebase
 	branch = master
+[submodule "sm_dir/test_submodule_1"]
+	path = sm_dir/test_submodule_1
+	url = https://github.com/Brandon-Valley/test_submodule_1.git
