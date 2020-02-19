@@ -34,7 +34,7 @@ readarray -t submodule_relative_paths_array < $TEMP_SUBMODULE_LIST_FILE_PATH
 for i in "${submodule_relative_paths_array[@]}"
 do
    echo $i >> out.txt
-   git config -f .gitmodules submodule.$i.update rebase
+   git config -f .gitmodules submodule.$i.update rebase # not tested in global yet#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 done
 
 
@@ -55,3 +55,25 @@ done
 
 
 echo "end" >> out.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

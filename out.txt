@@ -36,3 +36,7 @@ start
 test_submodule
 sm_dir/test_submodule_1
 end
+start
+test_submodule
+sm_dir/test_submodule_1
+end
